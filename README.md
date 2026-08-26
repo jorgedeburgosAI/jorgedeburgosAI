@@ -8,7 +8,7 @@
 
 Vengo de un recorrido poco convencional — ingeniería, finanzas y experiencia real en el mundo jurídico-administrativo — antes de decidirme por el desarrollo de software. Cada etapa me dejó algo que uso hoy: rigor, gestión de datos sensibles y capacidad de aprender rápido cuando hace falta. Ahora combino esa base con una especialización creciente en IA, automatización y seguridad.
 
-🔭 Actualmente ampliando stack en prácticas en IA y automatización
+ Actualmente ampliando stack en prácticas en IA y automatización
 
 ---
 
@@ -18,7 +18,7 @@ Vengo de un recorrido poco convencional — ingeniería, finanzas y experiencia 
 
 My path here hasn't been conventional — engineering, finance, and real experience in the legal-administrative world — before deciding on software development. Each stage left me with something I use today: rigor, sensitive data handling, and the ability to learn fast when it matters. I now combine that foundation with a growing focus on AI, automation, and security.
 
-🔭 Currently expanding my stack during an internship at AI & automation
+ Currently expanding my stack during an internship at AI & automation
 
 ---
 
@@ -30,7 +30,7 @@ My path here hasn't been conventional — engineering, finance, and real experie
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00B4D8)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00B4D8)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00B4D8)
-![SQL, PL/SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=00B4D8)
+![SQL, PL/SQL](https://img.shields.io/badge/SQL%2C%20PL%2FSQL-0D1117?style=for-the-badge&logoColor=00B4D8)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00B4D8)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00B4D8)
 
@@ -47,7 +47,7 @@ My path here hasn't been conventional — engineering, finance, and real experie
 
 **APIs**
 
-![APIRESTFUL](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00B4D8)
+![APIRESTFUL](https://img.shields.io/badge/APIRESTFUL-0D1117?style=for-the-badge&logoColor=00B4D8)
 
 ## Área de interés / Area of interest
 
