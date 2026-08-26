@@ -12,7 +12,7 @@ Vengo de un recorrido poco convencional — ingeniería, finanzas y experiencia 
 
 ---
 
-### 🇬🇧 English
+### English
 
 ### Full-stack developer · AI & automation
 
