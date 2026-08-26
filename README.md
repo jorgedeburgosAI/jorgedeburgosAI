@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hola, soy Jorge 👋
 ### Full-stack developer · IA y automatización
 
@@ -60,3 +61,21 @@ My path here hasn't been conventional — engineering, finance, and real experie
   <img src="https://github-readme-stats.vercel.app/api?username=jorgedeburgosAI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8" alt="Jorge's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedeburgosAI&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Top languages" height="165" />
 </p>
+=======
+## Hi there 👋
+
+<!--
+**jorgedeburgosAI/jorgedeburgosAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 56faa5eb35be234c20b4871746cb18ea49d5e81b
