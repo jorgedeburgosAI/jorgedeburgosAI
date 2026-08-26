@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hola, soy Jorge 👋
 ### Full-stack developer · IA y automatización
 
