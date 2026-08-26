@@ -8,7 +8,7 @@
 
 Vengo de un recorrido poco convencional — ingeniería, finanzas y experiencia real en el mundo jurídico-administrativo — antes de decidirme por el desarrollo de software. Cada etapa me dejó algo que uso hoy: rigor, gestión de datos sensibles y capacidad de aprender rápido cuando hace falta. Ahora combino esa base con una especialización creciente en IA, automatización y seguridad.
 
-🔭 Actualmente ampliando stack en prácticas en iautomind (IA y automatización)
+🔭 Actualmente ampliando stack en prácticas en IA y automatización
 
 ---
 
@@ -18,7 +18,7 @@ Vengo de un recorrido poco convencional — ingeniería, finanzas y experiencia 
 
 My path here hasn't been conventional — engineering, finance, and real experience in the legal-administrative world — before deciding on software development. Each stage left me with something I use today: rigor, sensitive data handling, and the ability to learn fast when it matters. I now combine that foundation with a growing focus on AI, automation, and security.
 
-🔭 Currently expanding my stack during an internship at iautomind (AI & automation)
+🔭 Currently expanding my stack during an internship at AI & automation
 
 ---
 
@@ -30,7 +30,7 @@ My path here hasn't been conventional — engineering, finance, and real experie
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00B4D8)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00B4D8)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00B4D8)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=00B4D8)
+![SQL, PL/SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=00B4D8)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00B4D8)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00B4D8)
 
@@ -43,39 +43,14 @@ My path here hasn't been conventional — engineering, finance, and real experie
 **Herramientas / Tools**
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4D8)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00B4D8)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-0D1117?style=for-the-badge&logo=apachetomcat&logoColor=00B4D8)
 
 **APIs**
 
-![REST](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00B4D8)
+![APIRESTFUL](https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00B4D8)
 
 ## Área de interés / Area of interest
 
 > 🔐 Orientando mi carrera hacia DevSecOps, con foco creciente en prácticas de desarrollo seguro.
 > 🔐 Steering my career toward DevSecOps, with a growing focus on secure development practices.
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgedeburgosAI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&icon_color=00B4D8" alt="Jorge's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgedeburgosAI&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Top languages" height="165" />
-</p>
-=======
-## Hi there 👋
-
-<!--
-**jorgedeburgosAI/jorgedeburgosAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 56faa5eb35be234c20b4871746cb18ea49d5e81b
